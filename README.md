@@ -1,6 +1,6 @@
 <h1> Hi There!, I am <em >Nilson Diaz</em> <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30px"></h1>
 
-### 🐱‍👤 I'm Developer from colombia , Interested at frontend development with technologies as ReactJs or NextJs, Student At [Platzi](https://platzi.com/p/NilsonKr/) 💚 
+### 🐱‍👤 I'm Developer from colombia , Interested at frontend development with technologies as ReactJs and NextJs, Student At [Platzi](https://platzi.com/p/NilsonKr/) 💚 
 
 - 🌱 I’m currently learning ReactJs , Redux , TailwindCss
 - 💬 Ask me about Javascript and Web Development
