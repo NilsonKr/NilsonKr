@@ -13,8 +13,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=nilsonkr&show_icons=true&icon_color=fff&bg_color=DEG,000,6930c3&title_color=96FF85&text_color=fff&" width="500px" height="250px"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilsonkr&layout=compact&&bg_color=000&title_color=fff&text_color=fff&" width="500px"/>
-
 # 📬 Find me at
 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/nilsonkr/)
