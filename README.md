@@ -2,7 +2,7 @@
 
 ### 🐱‍👤 I'm Developer from colombia , Interested at frontend development with technologies as ReactJs or NextJs, Student At [Platzi](https://platzi.com/p/NilsonKr/) 💚 
 
-- 🌱 I’m currently learning ReactJs and all about its development enviroment
+- 🌱 I’m currently learning ReactJs , Redux , TailwindCss
 - 💬 Ask me about Javascript and Web Development
 
 # My Stack 🔮
