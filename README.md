@@ -2,7 +2,7 @@
 
 ### 🐱‍👤 Web Frontend Developer from Colombia , Always keep learning magic web technologies, Student At [Platzi](https://platzi.com/p/NilsonKr/) 💚 
 
-- 🌱 I’m currently learning ReactJs , Redux , TailwindCss
+- 🌱 I’m currently learning ReactJs , TailwindCss
 - 💬 Ask me about Javascript and Web Development
 
 # Technologies 🔮
