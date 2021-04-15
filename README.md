@@ -1,6 +1,6 @@
 <h1> Hi There!, I'm <em >Nilson Diaz</em> <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30px"></h1>
 
-### 🐱‍👤 Web Frontend Developer from Colombia , Always keep learning web technologies, Student At [Platzi](https://platzi.com/p/NilsonKr/) 💚 
+###  Web Frontend Developer from Colombia , Always keep learning web technologies, Student At [Platzi](https://platzi.com/p/NilsonKr/) 💚 
 
 - 🌱 I’m currently learning ReactJs , TailwindCss
 - 💬 Ask me about Javascript and Web Development
@@ -13,7 +13,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=nilsonkr&show_icons=true&icon_color=fff&bg_color=DEG,000,6930c3&title_color=96FF85&text_color=fff&" width="500px" height="250px"/>
 
-# 📬 Find me at
+#  Find me at 📬
 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/nilsonkr/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:nilson444diaz@gmail.com)
