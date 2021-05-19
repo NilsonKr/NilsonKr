@@ -2,7 +2,7 @@
 
 ###  Web Frontend Developer from Colombia , Student At [Platzi](https://platzi.com/p/NilsonKr/) 💚 
 
-- 🌱 I’m currently learning ReactJs , TailwindCss
+- 🌱 I’m currently learning Nodejs and Advanced React Js
 - 💬 Ask me about Javascript and Web Development
 
 # Technologies 🔮
