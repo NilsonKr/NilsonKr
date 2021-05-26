@@ -2,12 +2,12 @@
 
 ###  Web Frontend Developer from Colombia , Student At [Platzi](https://platzi.com/p/NilsonKr/) 💚 
 
-- 🌱 I’m currently learning Nodejs and Advanced React Js
+- 🌱 I’m currently learning Node.js🟩 and getting deeper in JavaScript🟡
 - 💬 Ask me about Javascript and Web Development
 
 # Technologies 🔮
 
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="130px" height="35"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" width="100px" height="35"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" width="100px" height="35"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100px" height="35"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" width="100px" height="35" >
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="130px" height="35"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" width="100px" height="35"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100px" height="35"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" width="100px" height="35" > <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white" width="100px" height="35"/>
 
 # GitHub Stats 🌌
 
