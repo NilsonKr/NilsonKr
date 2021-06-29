@@ -2,7 +2,7 @@
 
 ###  Web Frontend Developer from Colombia , Student At [Platzi](https://platzi.com/p/NilsonKr/) 💚 
 
-- 🌱 I’m currently learning DataBases📦🚛 and getting deeper in JavaScript & Programming Foundaments💛
+- 🌱 I’m currently learning DataBases📦🚛, getting deeper in JavaScript & Programming Foundaments💛
 - 💬 Ask me about Javascript and Web Development
 <br />
 
