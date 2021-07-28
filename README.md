@@ -1,8 +1,8 @@
 <h1 align="center"> Hi...  I'm Nilson Diaz <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30px"> </h1>
 
-###  Web Frontend Developer from Colombia , Student At [Platzi](https://platzi.com/p/NilsonKr/) 💚 
+###  Web Developer from Colombia , Student At [Platzi](https://platzi.com/p/NilsonKr/) 💚 
 
-- 🌱 I’m currently learning about JamStack 🦄 getting deeper in JavaScript & Programming Foundaments 💛
+- 🌱 I’m currently learning about JamStack 🦄 getting deeper in JavaScript & Programming fundamnetals 💛
 - 💬 Ask me about Javascript and Web Development
 <br />
 
