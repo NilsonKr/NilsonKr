@@ -4,6 +4,7 @@
 
 - 🌱 I’m currently learning about JamStack 🦄 getting deeper in JavaScript & Programming fundamentals 💛
 - 💬 Ask me about Javascript and Web Development
+- 👀 I'm looking for collaborate, if you are interested Don't be afraid, contact Me !
 <br />
 
 # Technologies 🔮
