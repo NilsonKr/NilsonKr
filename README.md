@@ -2,7 +2,7 @@
 
 ###  Web developer from Colombia. Student at [Platzi](https://platzi.com/p/NilsonKr/) 💚 
 
-- 🌱 I’m currently learning about JamStack 🦄 & GraphQL 🎆  getting deeper in JavaScript & Programming fundamentals 💛
+- 🌱 I’m currently learning about Crypto stuff 🦄 diving & trying out cool things about Computer Science ✨🐱‍🏍
 - 💬 Ask me about Javascript and Web Development
 - 👀 I'm looking for collaborate, if you are interested, don't be afraid, Contact Me !
 <br />
