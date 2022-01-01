@@ -2,7 +2,7 @@
 
 ###  Software developer from Colombia. Visit [my personal website](https://nilsondiaz.vercel.app)
 - 🌟 I’m currently learning about Crypto stuff 🦄 diving & trying out interesting technology ✨🐱‍🏍
-- 🍭 also I'm Working as Frontend Developer -> [LinkedIn](https://www.linkedin.com/in/nilson-felipe-diaz-perez-a80625218)
+- 🍭 Also I'm Working as Frontend Developer -> [LinkedIn](https://www.linkedin.com/in/nilson-felipe-diaz-perez-a80625218)
 - 💬 Ask me about Javascript and Web Development
 - 👀 I'm looking for collaborate, if you are interested, don't be afraid, Contact Me !
 - 🚀 I like to learn new cool stuff so... [@Platzi](https://platzi.com/p/NilsonKr/)
