@@ -1,10 +1,10 @@
-<h1 align="center"> Hi...  I'm Nilson Diaz <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30px"> </h1>
+<h1 align="center"> Hi...  I'm Nilson <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30px"> </h1>
 
 ###  Software developer from Colombia. Visit [my personal website](https://nilsondiaz.vercel.app)
 - 🌟 I’m currently learning about Crypto stuff 🦄 diving & trying out interesting technology ✨🐱‍🏍
 - 🍭 Also I'm Working as Frontend Developer -> [LinkedIn](https://www.linkedin.com/in/nilson-felipe-diaz-perez-a80625218)
-- 💬 Ask me about Javascript and Web Development
-- 👀 I'm looking for collaborate, if you are interested, don't be afraid, Contact Me !
+- 💬 Ask me about Software Development 
+- 👀 I'm open to create things together, if you got some cool idea, Contact Me !
 - 🚀 I like to learn new cool stuff so... [@Platzi](https://platzi.com/p/NilsonKr/)
 <br />
 
