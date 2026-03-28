@@ -1,6 +1,6 @@
 <h1 align="center"> Hi👋...  I'm Nilson <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30px"> </h1>
 
-###  Software engineer. Visit [my personal website](https://nilsondiaz.vercel.app)
+###  Software engineer. Visit [my portfolio](https://nilsondiaz.vercel.app)
 - 🍭 Working as Frontend / Full-stack engineer -> [LinkedIn](https://www.linkedin.com/in/nilson-felipe-diaz-perez-a80625218)
 - 👀 I'm open to create things together, if you got some cool idea, hit me up!
 - 🚀 I like to learn new cool stuff so... [@Platzi Profile](https://platzi.com/p/NilsonKr/)
