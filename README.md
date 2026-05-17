@@ -2,7 +2,7 @@
 <div align="center">
 <pre>
     Full-stack dev
-    Let's build something
+    Let's build something.
     <br />
     <img width="45px" alt="image" src="https://github.com/user-attachments/assets/92236068-db58-4c7d-9a60-13d0e70ffc38" />
     <br />
@@ -10,7 +10,7 @@
     <br /> 
     I write about nerdy stuff at <a href="https://medium.com/@nilsonkr" target="_blank">my medium blog</a>.
     <br /> 
-    Let my intrusive thoughts speak <a href="https://x.com/Nilson_Kr" target="_blank">@nilson_kr</a>
+    Let my intrusive thoughts speak <a href="https://x.com/Nilson_Kr" target="_blank">@nilson_kr</a>.
 </pre>
 <br>
 <br>
