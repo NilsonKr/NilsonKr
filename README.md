@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center"> <sup><i>Hello hello</i>!</sup> <sub>... I'm Nilson<img width="57" height="49" alt="image" src="https://github.com/NilsonKr/NilsonKr/blob/main/media/title.gif?raw=true" /></sub></h1>
+<h1 align="center"><sup><i>✧ Hello hello</i>!</sup> <sub>I'm Nilson<img width="57" height="49" alt="image" src="https://github.com/NilsonKr/NilsonKr/blob/main/media/title.gif?raw=true" /></sub></h1>
 <pre>
     <br />
     <b>Full-stack dev</b>
