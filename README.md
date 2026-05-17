@@ -8,7 +8,7 @@
     <br />
     Take a look at my porftolio -> <a href="https://www.nilson.dev/" target="_blank">nilson.dev</a>.
     <br /> 
-    I write about nerdy stuff at <a href="https://medium.com/@nilsonkr" target="_blank">my medium blog</a>.
+    I write about nerdy stuff on <a href="https://medium.com/@nilsonkr" target="_blank">my Medium blog</a>.
     <br /> 
     Let my intrusive thoughts speak <a href="https://x.com/Nilson_Kr" target="_blank">@nilson_kr</a>.
 </pre>
