@@ -2,7 +2,7 @@
 <h1 align="center"><sup><i>✧ Hello hello</i>!</sup> <sub>I'm Nilson<img width="57" height="49" alt="image" src="https://github.com/NilsonKr/NilsonKr/blob/main/media/title.gif?raw=true" /></sub></h1>
 <pre>
     <br />
-    <b>Full-stack dev</b>
+    <b>Software dev</b>
     <sub><em>Let's build something.</em></sub>
     <br />
     <img width="45px" alt="image" src="https://github.com/user-attachments/assets/92236068-db58-4c7d-9a60-13d0e70ffc38" />
